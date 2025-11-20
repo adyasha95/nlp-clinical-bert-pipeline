@@ -1,0 +1,501 @@
+text,label
+abdominal pain,stable_condition
+reports dizziness and nausea,medication_nonadherence
+mild fever and fatigue,follow_up_required
+mild fever and fatigue,infection_risk
+mild fever and fatigue,follow_up_required
+reports dizziness and nausea,infection_risk
+mild fever and fatigue,follow_up_required
+nonadherence to medication,stable_condition
+abdominal pain,follow_up_required
+requires follow-up consultation,follow_up_required
+infection risk due to wound redness,follow_up_required
+stable vital signs,infection_risk
+nonadherence to medication,infection_risk
+abdominal pain,infection_risk
+requires follow-up consultation,stable_condition
+abdominal pain,medication_nonadherence
+infection risk due to wound redness,stable_condition
+mild fever and fatigue,follow_up_required
+reports dizziness and nausea,medication_nonadherence
+shortness of breath,medication_nonadherence
+shortness of breath,stable_condition
+reports dizziness and nausea,medication_nonadherence
+requires follow-up consultation,infection_risk
+infection risk due to wound redness,follow_up_required
+shortness of breath,infection_risk
+stable vital signs,infection_risk
+shortness of breath,follow_up_required
+stable vital signs,stable_condition
+infection risk due to wound redness,medication_nonadherence
+stable vital signs,follow_up_required
+requires follow-up consultation,follow_up_required
+stable vital signs,infection_risk
+reports dizziness and nausea,stable_condition
+reports dizziness and nausea,infection_risk
+abdominal pain,stable_condition
+shortness of breath,stable_condition
+nonadherence to medication,medication_nonadherence
+requires follow-up consultation,medication_nonadherence
+requires follow-up consultation,infection_risk
+nonadherence to medication,infection_risk
+nonadherence to medication,follow_up_required
+nonadherence to medication,medication_nonadherence
+requires follow-up consultation,follow_up_required
+stable vital signs,medication_nonadherence
+requires follow-up consultation,follow_up_required
+mild fever and fatigue,follow_up_required
+infection risk due to wound redness,follow_up_required
+reports dizziness and nausea,follow_up_required
+reports dizziness and nausea,infection_risk
+infection risk due to wound redness,infection_risk
+infection risk due to wound redness,stable_condition
+shortness of breath,infection_risk
+nonadherence to medication,stable_condition
+mild fever and fatigue,follow_up_required
+shortness of breath,infection_risk
+reports dizziness and nausea,medication_nonadherence
+mild fever and fatigue,stable_condition
+mild fever and fatigue,follow_up_required
+shortness of breath,medication_nonadherence
+mild fever and fatigue,infection_risk
+requires follow-up consultation,follow_up_required
+reports dizziness and nausea,medication_nonadherence
+shortness of breath,medication_nonadherence
+stable vital signs,infection_risk
+reports dizziness and nausea,stable_condition
+nonadherence to medication,follow_up_required
+shortness of breath,medication_nonadherence
+nonadherence to medication,follow_up_required
+reports dizziness and nausea,medication_nonadherence
+nonadherence to medication,follow_up_required
+abdominal pain,infection_risk
+mild fever and fatigue,infection_risk
+nonadherence to medication,infection_risk
+stable vital signs,follow_up_required
+nonadherence to medication,stable_condition
+shortness of breath,medication_nonadherence
+reports dizziness and nausea,follow_up_required
+infection risk due to wound redness,stable_condition
+reports dizziness and nausea,infection_risk
+stable vital signs,follow_up_required
+shortness of breath,stable_condition
+mild fever and fatigue,medication_nonadherence
+requires follow-up consultation,stable_condition
+requires follow-up consultation,stable_condition
+reports dizziness and nausea,medication_nonadherence
+shortness of breath,follow_up_required
+shortness of breath,follow_up_required
+reports dizziness and nausea,follow_up_required
+mild fever and fatigue,medication_nonadherence
+nonadherence to medication,follow_up_required
+abdominal pain,infection_risk
+nonadherence to medication,medication_nonadherence
+stable vital signs,stable_condition
+infection risk due to wound redness,infection_risk
+nonadherence to medication,medication_nonadherence
+abdominal pain,medication_nonadherence
+stable vital signs,stable_condition
+abdominal pain,stable_condition
+stable vital signs,stable_condition
+reports dizziness and nausea,stable_condition
+stable vital signs,follow_up_required
+reports dizziness and nausea,stable_condition
+infection risk due to wound redness,infection_risk
+mild fever and fatigue,stable_condition
+requires follow-up consultation,infection_risk
+nonadherence to medication,medication_nonadherence
+reports dizziness and nausea,stable_condition
+shortness of breath,infection_risk
+infection risk due to wound redness,follow_up_required
+abdominal pain,follow_up_required
+stable vital signs,infection_risk
+mild fever and fatigue,infection_risk
+abdominal pain,infection_risk
+nonadherence to medication,medication_nonadherence
+stable vital signs,medication_nonadherence
+mild fever and fatigue,infection_risk
+shortness of breath,infection_risk
+abdominal pain,medication_nonadherence
+mild fever and fatigue,stable_condition
+requires follow-up consultation,stable_condition
+requires follow-up consultation,follow_up_required
+infection risk due to wound redness,medication_nonadherence
+stable vital signs,medication_nonadherence
+abdominal pain,follow_up_required
+reports dizziness and nausea,medication_nonadherence
+infection risk due to wound redness,medication_nonadherence
+infection risk due to wound redness,follow_up_required
+abdominal pain,stable_condition
+reports dizziness and nausea,follow_up_required
+mild fever and fatigue,medication_nonadherence
+abdominal pain,medication_nonadherence
+abdominal pain,medication_nonadherence
+abdominal pain,infection_risk
+nonadherence to medication,infection_risk
+abdominal pain,medication_nonadherence
+abdominal pain,medication_nonadherence
+abdominal pain,medication_nonadherence
+nonadherence to medication,follow_up_required
+mild fever and fatigue,infection_risk
+infection risk due to wound redness,medication_nonadherence
+infection risk due to wound redness,infection_risk
+mild fever and fatigue,infection_risk
+requires follow-up consultation,stable_condition
+nonadherence to medication,follow_up_required
+reports dizziness and nausea,follow_up_required
+abdominal pain,follow_up_required
+requires follow-up consultation,stable_condition
+nonadherence to medication,follow_up_required
+mild fever and fatigue,infection_risk
+abdominal pain,infection_risk
+nonadherence to medication,follow_up_required
+nonadherence to medication,stable_condition
+stable vital signs,stable_condition
+requires follow-up consultation,medication_nonadherence
+abdominal pain,medication_nonadherence
+requires follow-up consultation,medication_nonadherence
+stable vital signs,stable_condition
+shortness of breath,follow_up_required
+stable vital signs,infection_risk
+infection risk due to wound redness,infection_risk
+mild fever and fatigue,follow_up_required
+infection risk due to wound redness,medication_nonadherence
+requires follow-up consultation,infection_risk
+reports dizziness and nausea,stable_condition
+nonadherence to medication,medication_nonadherence
+stable vital signs,infection_risk
+abdominal pain,infection_risk
+stable vital signs,stable_condition
+abdominal pain,infection_risk
+stable vital signs,medication_nonadherence
+infection risk due to wound redness,stable_condition
+abdominal pain,infection_risk
+nonadherence to medication,stable_condition
+mild fever and fatigue,infection_risk
+mild fever and fatigue,infection_risk
+mild fever and fatigue,medication_nonadherence
+abdominal pain,infection_risk
+abdominal pain,stable_condition
+nonadherence to medication,infection_risk
+nonadherence to medication,infection_risk
+abdominal pain,stable_condition
+mild fever and fatigue,medication_nonadherence
+reports dizziness and nausea,follow_up_required
+requires follow-up consultation,follow_up_required
+mild fever and fatigue,infection_risk
+abdominal pain,infection_risk
+requires follow-up consultation,follow_up_required
+infection risk due to wound redness,infection_risk
+infection risk due to wound redness,medication_nonadherence
+reports dizziness and nausea,medication_nonadherence
+stable vital signs,follow_up_required
+infection risk due to wound redness,medication_nonadherence
+reports dizziness and nausea,medication_nonadherence
+nonadherence to medication,medication_nonadherence
+infection risk due to wound redness,medication_nonadherence
+mild fever and fatigue,medication_nonadherence
+shortness of breath,follow_up_required
+nonadherence to medication,medication_nonadherence
+requires follow-up consultation,medication_nonadherence
+stable vital signs,medication_nonadherence
+abdominal pain,stable_condition
+requires follow-up consultation,infection_risk
+shortness of breath,medication_nonadherence
+mild fever and fatigue,infection_risk
+abdominal pain,stable_condition
+stable vital signs,stable_condition
+nonadherence to medication,medication_nonadherence
+mild fever and fatigue,stable_condition
+shortness of breath,stable_condition
+stable vital signs,follow_up_required
+requires follow-up consultation,medication_nonadherence
+mild fever and fatigue,follow_up_required
+stable vital signs,follow_up_required
+shortness of breath,follow_up_required
+infection risk due to wound redness,follow_up_required
+abdominal pain,follow_up_required
+stable vital signs,medication_nonadherence
+abdominal pain,medication_nonadherence
+infection risk due to wound redness,stable_condition
+stable vital signs,medication_nonadherence
+nonadherence to medication,follow_up_required
+nonadherence to medication,medication_nonadherence
+shortness of breath,medication_nonadherence
+stable vital signs,stable_condition
+reports dizziness and nausea,infection_risk
+stable vital signs,infection_risk
+stable vital signs,follow_up_required
+infection risk due to wound redness,infection_risk
+abdominal pain,follow_up_required
+abdominal pain,medication_nonadherence
+infection risk due to wound redness,medication_nonadherence
+reports dizziness and nausea,infection_risk
+stable vital signs,stable_condition
+infection risk due to wound redness,infection_risk
+reports dizziness and nausea,infection_risk
+infection risk due to wound redness,medication_nonadherence
+infection risk due to wound redness,stable_condition
+requires follow-up consultation,infection_risk
+nonadherence to medication,infection_risk
+infection risk due to wound redness,stable_condition
+abdominal pain,follow_up_required
+reports dizziness and nausea,medication_nonadherence
+shortness of breath,stable_condition
+reports dizziness and nausea,medication_nonadherence
+abdominal pain,stable_condition
+abdominal pain,follow_up_required
+requires follow-up consultation,stable_condition
+nonadherence to medication,infection_risk
+mild fever and fatigue,stable_condition
+abdominal pain,medication_nonadherence
+infection risk due to wound redness,stable_condition
+infection risk due to wound redness,medication_nonadherence
+infection risk due to wound redness,infection_risk
+requires follow-up consultation,medication_nonadherence
+nonadherence to medication,infection_risk
+reports dizziness and nausea,stable_condition
+mild fever and fatigue,infection_risk
+nonadherence to medication,medication_nonadherence
+infection risk due to wound redness,medication_nonadherence
+requires follow-up consultation,medication_nonadherence
+reports dizziness and nausea,infection_risk
+shortness of breath,stable_condition
+reports dizziness and nausea,follow_up_required
+mild fever and fatigue,medication_nonadherence
+reports dizziness and nausea,medication_nonadherence
+requires follow-up consultation,stable_condition
+stable vital signs,follow_up_required
+infection risk due to wound redness,medication_nonadherence
+reports dizziness and nausea,follow_up_required
+abdominal pain,medication_nonadherence
+reports dizziness and nausea,stable_condition
+infection risk due to wound redness,medication_nonadherence
+abdominal pain,infection_risk
+nonadherence to medication,follow_up_required
+stable vital signs,medication_nonadherence
+infection risk due to wound redness,medication_nonadherence
+abdominal pain,infection_risk
+stable vital signs,follow_up_required
+nonadherence to medication,medication_nonadherence
+stable vital signs,infection_risk
+requires follow-up consultation,medication_nonadherence
+requires follow-up consultation,stable_condition
+nonadherence to medication,follow_up_required
+abdominal pain,stable_condition
+infection risk due to wound redness,infection_risk
+reports dizziness and nausea,follow_up_required
+requires follow-up consultation,infection_risk
+infection risk due to wound redness,follow_up_required
+reports dizziness and nausea,medication_nonadherence
+nonadherence to medication,follow_up_required
+mild fever and fatigue,follow_up_required
+reports dizziness and nausea,medication_nonadherence
+mild fever and fatigue,follow_up_required
+mild fever and fatigue,follow_up_required
+nonadherence to medication,follow_up_required
+stable vital signs,stable_condition
+abdominal pain,follow_up_required
+abdominal pain,infection_risk
+mild fever and fatigue,stable_condition
+abdominal pain,medication_nonadherence
+requires follow-up consultation,infection_risk
+infection risk due to wound redness,stable_condition
+infection risk due to wound redness,medication_nonadherence
+abdominal pain,medication_nonadherence
+requires follow-up consultation,follow_up_required
+requires follow-up consultation,medication_nonadherence
+nonadherence to medication,medication_nonadherence
+abdominal pain,follow_up_required
+abdominal pain,infection_risk
+requires follow-up consultation,follow_up_required
+requires follow-up consultation,medication_nonadherence
+stable vital signs,stable_condition
+requires follow-up consultation,infection_risk
+requires follow-up consultation,medication_nonadherence
+requires follow-up consultation,stable_condition
+mild fever and fatigue,follow_up_required
+requires follow-up consultation,medication_nonadherence
+abdominal pain,follow_up_required
+requires follow-up consultation,infection_risk
+requires follow-up consultation,stable_condition
+nonadherence to medication,infection_risk
+reports dizziness and nausea,follow_up_required
+stable vital signs,stable_condition
+infection risk due to wound redness,infection_risk
+requires follow-up consultation,infection_risk
+abdominal pain,follow_up_required
+nonadherence to medication,infection_risk
+infection risk due to wound redness,infection_risk
+nonadherence to medication,stable_condition
+mild fever and fatigue,stable_condition
+reports dizziness and nausea,infection_risk
+stable vital signs,infection_risk
+shortness of breath,stable_condition
+requires follow-up consultation,stable_condition
+infection risk due to wound redness,medication_nonadherence
+mild fever and fatigue,stable_condition
+stable vital signs,stable_condition
+requires follow-up consultation,medication_nonadherence
+shortness of breath,stable_condition
+stable vital signs,follow_up_required
+infection risk due to wound redness,stable_condition
+abdominal pain,infection_risk
+shortness of breath,stable_condition
+infection risk due to wound redness,infection_risk
+mild fever and fatigue,follow_up_required
+reports dizziness and nausea,infection_risk
+requires follow-up consultation,medication_nonadherence
+requires follow-up consultation,stable_condition
+reports dizziness and nausea,follow_up_required
+nonadherence to medication,follow_up_required
+stable vital signs,infection_risk
+shortness of breath,stable_condition
+abdominal pain,stable_condition
+nonadherence to medication,follow_up_required
+requires follow-up consultation,infection_risk
+reports dizziness and nausea,follow_up_required
+shortness of breath,stable_condition
+infection risk due to wound redness,stable_condition
+stable vital signs,medication_nonadherence
+infection risk due to wound redness,infection_risk
+stable vital signs,stable_condition
+mild fever and fatigue,follow_up_required
+requires follow-up consultation,medication_nonadherence
+infection risk due to wound redness,medication_nonadherence
+requires follow-up consultation,stable_condition
+nonadherence to medication,follow_up_required
+nonadherence to medication,medication_nonadherence
+reports dizziness and nausea,stable_condition
+nonadherence to medication,follow_up_required
+abdominal pain,medication_nonadherence
+stable vital signs,infection_risk
+nonadherence to medication,follow_up_required
+reports dizziness and nausea,infection_risk
+mild fever and fatigue,stable_condition
+nonadherence to medication,stable_condition
+stable vital signs,follow_up_required
+shortness of breath,medication_nonadherence
+infection risk due to wound redness,infection_risk
+shortness of breath,infection_risk
+infection risk due to wound redness,infection_risk
+nonadherence to medication,stable_condition
+stable vital signs,stable_condition
+nonadherence to medication,stable_condition
+infection risk due to wound redness,medication_nonadherence
+abdominal pain,medication_nonadherence
+stable vital signs,infection_risk
+mild fever and fatigue,follow_up_required
+abdominal pain,follow_up_required
+infection risk due to wound redness,infection_risk
+reports dizziness and nausea,stable_condition
+abdominal pain,stable_condition
+shortness of breath,follow_up_required
+nonadherence to medication,infection_risk
+stable vital signs,medication_nonadherence
+shortness of breath,follow_up_required
+infection risk due to wound redness,follow_up_required
+requires follow-up consultation,follow_up_required
+nonadherence to medication,medication_nonadherence
+abdominal pain,stable_condition
+stable vital signs,stable_condition
+stable vital signs,follow_up_required
+nonadherence to medication,medication_nonadherence
+infection risk due to wound redness,medication_nonadherence
+mild fever and fatigue,follow_up_required
+abdominal pain,follow_up_required
+reports dizziness and nausea,medication_nonadherence
+nonadherence to medication,medication_nonadherence
+nonadherence to medication,medication_nonadherence
+shortness of breath,medication_nonadherence
+requires follow-up consultation,infection_risk
+mild fever and fatigue,medication_nonadherence
+abdominal pain,infection_risk
+abdominal pain,stable_condition
+stable vital signs,medication_nonadherence
+requires follow-up consultation,stable_condition
+requires follow-up consultation,stable_condition
+reports dizziness and nausea,infection_risk
+abdominal pain,medication_nonadherence
+reports dizziness and nausea,medication_nonadherence
+shortness of breath,stable_condition
+abdominal pain,stable_condition
+infection risk due to wound redness,infection_risk
+infection risk due to wound redness,stable_condition
+nonadherence to medication,medication_nonadherence
+shortness of breath,follow_up_required
+requires follow-up consultation,medication_nonadherence
+abdominal pain,follow_up_required
+nonadherence to medication,follow_up_required
+reports dizziness and nausea,medication_nonadherence
+stable vital signs,follow_up_required
+nonadherence to medication,medication_nonadherence
+nonadherence to medication,follow_up_required
+stable vital signs,follow_up_required
+mild fever and fatigue,medication_nonadherence
+abdominal pain,infection_risk
+shortness of breath,infection_risk
+mild fever and fatigue,follow_up_required
+abdominal pain,follow_up_required
+mild fever and fatigue,follow_up_required
+shortness of breath,stable_condition
+shortness of breath,follow_up_required
+requires follow-up consultation,follow_up_required
+infection risk due to wound redness,stable_condition
+mild fever and fatigue,medication_nonadherence
+mild fever and fatigue,stable_condition
+stable vital signs,infection_risk
+stable vital signs,stable_condition
+nonadherence to medication,infection_risk
+mild fever and fatigue,medication_nonadherence
+requires follow-up consultation,medication_nonadherence
+abdominal pain,infection_risk
+shortness of breath,follow_up_required
+infection risk due to wound redness,medication_nonadherence
+infection risk due to wound redness,stable_condition
+reports dizziness and nausea,infection_risk
+stable vital signs,medication_nonadherence
+reports dizziness and nausea,follow_up_required
+abdominal pain,stable_condition
+stable vital signs,follow_up_required
+stable vital signs,stable_condition
+infection risk due to wound redness,infection_risk
+abdominal pain,follow_up_required
+infection risk due to wound redness,infection_risk
+nonadherence to medication,follow_up_required
+shortness of breath,infection_risk
+nonadherence to medication,follow_up_required
+mild fever and fatigue,medication_nonadherence
+nonadherence to medication,medication_nonadherence
+reports dizziness and nausea,medication_nonadherence
+shortness of breath,medication_nonadherence
+infection risk due to wound redness,medication_nonadherence
+abdominal pain,follow_up_required
+stable vital signs,follow_up_required
+nonadherence to medication,stable_condition
+abdominal pain,stable_condition
+infection risk due to wound redness,stable_condition
+requires follow-up consultation,medication_nonadherence
+abdominal pain,infection_risk
+requires follow-up consultation,follow_up_required
+mild fever and fatigue,infection_risk
+abdominal pain,medication_nonadherence
+abdominal pain,infection_risk
+shortness of breath,follow_up_required
+infection risk due to wound redness,stable_condition
+nonadherence to medication,medication_nonadherence
+nonadherence to medication,medication_nonadherence
+abdominal pain,infection_risk
+nonadherence to medication,stable_condition
+requires follow-up consultation,stable_condition
+infection risk due to wound redness,stable_condition
+requires follow-up consultation,infection_risk
+shortness of breath,infection_risk
+requires follow-up consultation,follow_up_required
+mild fever and fatigue,stable_condition
+requires follow-up consultation,medication_nonadherence
+mild fever and fatigue,follow_up_required
+stable vital signs,medication_nonadherence
+infection risk due to wound redness,stable_condition
+mild fever and fatigue,follow_up_required
+mild fever and fatigue,stable_condition
